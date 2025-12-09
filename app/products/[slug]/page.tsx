@@ -20,7 +20,7 @@ const products = {
 			"https://m.media-amazon.com/images/I/71tWTWashCL._AC_SX679_.jpg",
 			"https://m.media-amazon.com/images/I/71tWTWashCL._AC_SX679_.jpg",
 		],
-		amazonUrl: "https://www.amazon.com/UPOWEX-Resistance-Whatafit-Exercise-Training/dp/B07DWSPQQY",
+		amazonUrl: "https://amzn.to/4hRVLDd",
 		description:
 			"Exercise bands with handles for men and women, ideal for fitness and strength training home gym equipment.",
 		features: [
@@ -48,7 +48,7 @@ const products = {
 			"https://m.media-amazon.com/images/I/91td0WAbhHL._AC_SX679_.jpg",
 			"https://m.media-amazon.com/images/I/91td0WAbhHL._AC_SX679_.jpg",
 		],
-		amazonUrl: "https://www.amazon.com/Fabric-Resistance-Loop-Bands-Shoulders/dp/B07WQLDKN2",
+		amazonUrl: "https://amzn.to/47FrUcm",
 		description: "Thick booty bands for squats, lunges, hip training, physical therapy, and home workouts.",
 		features: [
 			"Thick fabric weave with elastic latex for comfort",
@@ -75,7 +75,7 @@ const products = {
 			"https://m.media-amazon.com/images/I/91UnDO-XhlL._AC_SX679_.jpg",
 			"https://m.media-amazon.com/images/I/91UnDO-XhlL._AC_SX679_.jpg",
 		],
-		amazonUrl: "https://www.amazon.com/Vergali-Resistance-Resistant-Training-Exercise/dp/B088396TM2",
+		amazonUrl: "https://amzn.to/4nyUBOl",
 		description: "Fabric elastic bands for exercise, perfect for legs, hips, thighs, and glutes with workout guide.",
 		features: [
 			"Non-slip cotton and latex blend",
@@ -102,7 +102,7 @@ const products = {
 			"https://m.media-amazon.com/images/I/71wwR5zim1L._AC_SX679_.jpg",
 			"https://m.media-amazon.com/images/I/71wwR5zim1L._AC_SX679_.jpg",
 		],
-		amazonUrl: "https://www.amazon.com/Resistance-Assistance-Exercise-Stretching-Physical/dp/B0CJM9FD8P",
+		amazonUrl: "https://amzn.to/4nGJ3Zt",
 		description: "Resistance bands set for body stretching, physical therapy, and muscle training.",
 		features: [
 			"100% Natural Latex from Malaysia",
@@ -129,7 +129,7 @@ const products = {
 			"https://m.media-amazon.com/images/I/61llicj0+gL._AC_SX679_.jpg",
 			"https://m.media-amazon.com/images/I/61llicj0+gL._AC_SX679_.jpg",
 		],
-		amazonUrl: "https://www.amazon.com/LEEKEY-Resistance-Band-Assist-Bands/dp/B07DR9BT5G",
+		amazonUrl: "https://amzn.to/3LnvDnw",
 		description: "Multi-level exercise bands for pull-up assistance, full-body training, and home workouts.",
 		features: [
 			"Non-slip chequer design for grip and stability",
@@ -156,7 +156,7 @@ const products = {
 			"https://m.media-amazon.com/images/I/71f3he0MS7L._SX522_.jpg",
 			"https://m.media-amazon.com/images/I/71f3he0MS7L._SX522_.jpg",
 		],
-		amazonUrl: "https://www.amazon.com/Stretcher-Stretching-Fasciitis-Achilles-Tendonitis-Hamstring/dp/B08JHZYQ7X",
+		amazonUrl: "https://amzn.to/3Ls5ns6",
 		description: "For plantar fasciitis, Achilles tendonitis, hamstring stretching, and flexibility improvement.",
 		features: [
 			"Designed for targeted leg stretching",
@@ -183,7 +183,7 @@ const products = {
 			"https://m.media-amazon.com/images/I/71XY3bDlSaL._AC_SX679_.jpg",
 			"https://m.media-amazon.com/images/I/71XY3bDlSaL._AC_SX679_.jpg",
 		],
-		amazonUrl: "https://www.amazon.com/Resistance-Exercise-Stretching-Strength-Flexbands/dp/B097JQYZR1",
+		amazonUrl: "https://amzn.to/4hFLkTj",
 		description: "Beginner kit for exercise, physical therapy, and strength training with non-latex elastic bands.",
 		features: [
 			"Non-latex material safe for sensitive skin",
@@ -211,7 +211,7 @@ const products = {
 			"https://m.media-amazon.com/images/I/51qzaLPQ4GL._SX522_.jpg",
 			"https://m.media-amazon.com/images/I/51qzaLPQ4GL._SX522_.jpg",
 		],
-		amazonUrl: "https://www.amazon.com/TheraBand-Resistance-Professional-Non-Latex-Exercise/dp/B01A58FHQ8",
+		amazonUrl: "https://amzn.to/3Ji62Ml",
 		description: "Elastic bands for upper and lower body fitness, exercise, and physical therapy.",
 		features: [
 			"Non-latex material for sensitive skin",
@@ -239,7 +239,7 @@ const products = {
 			"https://m.media-amazon.com/images/I/61H92UQBURL._AC_SX679_.jpg",
 			"https://m.media-amazon.com/images/I/61H92UQBURL._AC_SX679_.jpg",
 		],
-		amazonUrl: "https://www.amazon.com/Resistance-Training-Exercise-Equipment-Stretching%EF%BC%883/dp/B0DDTZCDR9",
+		amazonUrl: "https://amzn.to/4oTqUsh",
 		description: "Set of 3 bands for stretching, exercise equipment, and full-body workouts.",
 		features: [
 			"Designed for full-body workouts",
